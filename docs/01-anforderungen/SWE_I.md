@@ -253,7 +253,7 @@ Vor beiden Terminen erinnert sie eine SMS. Beim Reparaturtermin baut Jonas den n
 
 ## Aufgabe 5: User Stories
 
-Format: Als [Rolle] [möchte / will / muss] ich [etwas tun], damit [Grund]. Basierend auf den Personas Sabine, Jonas, Rosa und Martin.
+Format: Als \[Rolle\] \[möchte / will / muss\] ich \[etwas tun\], damit \[Grund\]. Basierend auf den Personas Sabine, Jonas, Rosa und Martin.
 
 | ID | User Story | Persona | Priorität |
 |---|---|---|---|
@@ -341,7 +341,7 @@ Strukturierter Anwendungsfall, abgeleitet aus dem Szenario „Sabines Kaffeemasc
 
 ## Aufgabe 1: Funktionale Anforderungen
 
-Schema: Nach [Bedingung] muss das System [Akteur] die Möglichkeit bieten, [Funktion] auszuführen. Abgeleitet aus User Stories (US1 bis US10), dem Anwendungsfalldiagramm und UC-02.
+Schema: Nach \[Bedingung\] muss das System \[Akteur\] die Möglichkeit bieten, \[Funktion\] auszuführen. Abgeleitet aus User Stories (US1 bis US10), dem Anwendungsfalldiagramm und UC-02.
 
 Alle Anforderungen: Version 1, Status Entwurf.
 
